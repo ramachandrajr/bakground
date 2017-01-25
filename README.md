@@ -11,12 +11,12 @@ $ python bakground.py
 
 2. To run a command or run a process:
 ```bash
-\>> -c \<bash command to run\>
+>> -c <bash command to run>
 ```
 
 3. To show all process:
 ```bash
-\>> show
+>> show
 ```
 
 shows all the processes as a table
@@ -26,6 +26,6 @@ shows all the processes as a table
 
 4. To kill a process:
 ```bash
-\>> -k \<index number\>
+>> -k <index number>
 
 
