@@ -20,9 +20,9 @@ $ python bakground.py
 ```
 
 shows all the processes as a table
-Index           |Command    |State         
---- | --- | ---
-0               |\<cmd\>    |Running / done
+    |Index |Command    |State         |
+    |------|-----------|--------------|
+    |0     |\<cmd\>    |Running / done|
 
 
 4. To kill a process:

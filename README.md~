@@ -21,6 +21,7 @@ $ python bakground.py
 
 shows all the processes as a table
 Index           |Command    |State         
+--- | --- | ---
 0               |\<cmd\>    |Running / done
 
 
